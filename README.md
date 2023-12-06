@@ -14,7 +14,7 @@ and after to run application ./RunExample
 
 После сборки перейти в папку Sources и запустить приложение ./RunExample
 
-Результаты работы приложения в Linux Manjaro показаны на рис.1 изображение
+Результаты работы приложения в Linux Manjaro показаны на рис.1.
 ![изображение](https://github.com/yurovalex/SimpleOpenGL_GLFW/assets/104449428/c25d2540-cd79-49ef-80ee-0517b7ec31da)
 
 
