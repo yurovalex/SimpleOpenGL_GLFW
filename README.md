@@ -15,6 +15,7 @@ and after to run application ./RunExample
 После сборки перейти в папку Sources и запустить приложение ./RunExample
 
 Результаты работы приложения в Linux Manjaro показаны на рис.1 изображение
-![изображение](https://github.com/yurovalex/SimpleOpenGL_GLFW/assets/104449428/b53894d9-d3bd-41cd-a210-16f81927b917)
+![изображение](https://github.com/yurovalex/SimpleOpenGL_GLFW/assets/104449428/c25d2540-cd79-49ef-80ee-0517b7ec31da)
+
 
           Рисунок 1 - Окно GLFW, диалоговое окно ImGui, построение двух фигур
